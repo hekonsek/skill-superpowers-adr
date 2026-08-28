@@ -1,5 +1,5 @@
 ---
-name: using-adrs-with-superpowers
+name: skill-superpowers-adr
 description: Use when applying Superpowers workflows to design, plan, implement, or review changes in a project that may contain Architecture Decision Records (ADRs).
 ---
 
@@ -36,7 +36,7 @@ Suggest a concise ADR for a durable, cross-cutting, costly-to-reverse, or preced
 
 Suggesting an ADR does not block ordinary design unless the unresolved decision prevents a coherent design.
 
-If the user accepts, select only a suitable, usable, registered ADR-authoring skill. Follow project conventions. This skill neither defines formats nor creates records. If no such skill is registered, report that and ask how to proceed rather than inventing a format.
+If the user accepts, select only a suitable, usable, registered ADR-authoring skill. Follow project conventions. This skill neither defines formats nor creates records. If no such skill is registered, report that and tell user that you will propose your own ADR format.
 
 ## Quick Reference
 
