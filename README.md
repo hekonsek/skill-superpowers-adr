@@ -1,6 +1,6 @@
 # skill-superpowers-adr: Skill for using ADRs with Superpowers
 
-An [Agent Skills](http://skills.md)-compatible, tool-agnostic skill that makes Architecture Decision Records first-class inputs to Superpowers workflows.
+An [Agent Skills](http://skills.md) compatible, tool-agnostic skill that makes Architecture Decision Records first-class inputs to Superpowers workflows.
 
 ## How does it work?
 
