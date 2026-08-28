@@ -34,7 +34,9 @@ Surface conflicts before approval. Ask whether to keep the decision or supersede
 
 Suggest a concise ADR for a durable, cross-cutting, costly-to-reverse, or precedent-setting architectural decision—not a local implementation detail.
 
-If the user accepts, inspect registered or available skills and use the best ADR creation or formatting match. Follow project conventions. This skill neither defines formats nor creates records. If none is registered, report that and ask how to proceed.
+Suggesting an ADR does not block ordinary design unless the unresolved decision prevents a coherent design.
+
+If the user accepts, select only a suitable, usable, registered ADR-authoring skill. Follow project conventions. This skill neither defines formats nor creates records. If no such skill is registered, report that and ask how to proceed rather than inventing a format.
 
 ## Quick Reference
 
