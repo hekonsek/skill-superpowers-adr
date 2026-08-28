@@ -32,7 +32,7 @@ Surface conflicts before approval. Ask whether to keep the decision or supersede
 
 ### Suggest an ADR during design
 
-Suggest an ADR for a durable, cross-cutting, costly-to-reverse, or precedent-setting architectural decision—not a local implementation detail.
+Suggest a concise ADR for a durable, cross-cutting, costly-to-reverse, or precedent-setting architectural decision—not a local implementation detail.
 
 If the user accepts, inspect registered or available skills and use the best ADR creation or formatting match. Follow project conventions. This skill neither defines formats nor creates records. If none is registered, report that and ask how to proceed.
 
